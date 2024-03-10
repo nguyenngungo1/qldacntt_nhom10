@@ -32,7 +32,7 @@ mẫu dùng hình ảnh các thành viên nhóm),
 Ít nhất 2 mini
 games để người chơi kiếm lại tiền sau khi đặt cược thua.
 >## DEMO sản phẩm
-@@Update sau@@
+__Update sau__
 >## Các ngôn ngữ,công nghệ sử dụng
  - Ngôn ngữ sử dụng:
  - IDE sử dụng:
@@ -41,11 +41,11 @@ games để người chơi kiếm lại tiền sau khi đặt cược thua.
  - Công cụ quản lí mã nguồn: 
  - Công cụ phát triển âm thanh:
 >## Yêu cầu cài đặt
-@@Update sau@@
+__Update sau__
 >## Hướng dẫn cài đặt chương trình
-@@Update sau@@
+__Update sau__
 >## Tài liệu tham khảo
-@@Update sau@@
+__Update sau__
 
 
 
