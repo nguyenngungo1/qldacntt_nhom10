@@ -1,5 +1,5 @@
 # FUNNY RACE - ĐỀ ÁN 2 - X TEAM
-(![game](gameqlda-1.png))
+![game](gameqlda-1.png)
 
 >## Lời cảm ơn
 
