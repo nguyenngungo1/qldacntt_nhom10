@@ -1,5 +1,5 @@
 # FUNNY RACE - ĐỀ ÁN 2 - X TEAM
-![example](c:\Users\Pecision\Desktop\project management\gameqlda.png)
+(![game](gameqlda-1.png))
 
 >## Lời cảm ơn
 
