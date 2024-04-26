@@ -1,5 +1,5 @@
-# TÊN CỦA GAME ĐUA XE - ĐỀ ÁN 2 - NHÓM 10
-ảnh trò chơi
+# FUNNY RACE - ĐỀ ÁN 2 - X TEAM
+![example](c:\Users\Pecision\Desktop\project management\gameqlda.png)
 
 >## Lời cảm ơn
 
