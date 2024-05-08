@@ -12,11 +12,11 @@ danh sách thành viên:
 
 |MSSV|Họ tên|Đánh giá %|
 |:---:|:-----:|:----:|
-|22520950|Đỗ Minh Nghiêm|100%|
-|22520958|Nguyễn Thị Hồng Ngọc|100%|
-|22520976|Nguyễn Phan Thảo Nguyên|100%|
-|22520978|Nguyễn Trung Nguyên|100%|
-|22521374|Phạm Trần Dạ Thảo|100%|
+|22520950|Đỗ Minh Nghiêm|20%|
+|22520958|Nguyễn Thị Hồng Ngọc|20%|
+|22520976|Nguyễn Phan Thảo Nguyên|20%|
+|22520978|Nguyễn Trung Nguyên|20%|
+|22521374|Phạm Trần Dạ Thảo|20%|
 
 >## Các chức năng trong trò chơi
 Các chức năng bao gồm: 
