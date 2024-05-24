@@ -1,0 +1,8 @@
+.root {
+    -fx-background-image: url('../drawable/store.png');
+    -fx-background-size: contain; /* Tuỳ chọn: điều chỉnh kích thước ảnh nền */
+}
+
+.button{
+    -fx-bc-background-image: url('../drawable/red_button_pressed.png')
+}
