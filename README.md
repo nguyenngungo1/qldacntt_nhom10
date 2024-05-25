@@ -33,11 +33,11 @@ mẫu dùng hình ảnh các thành viên nhóm),
 >## DEMO sản phẩm
 __Update sau__
 >## Các ngôn ngữ,công nghệ sử dụng
- - Ngôn ngữ sử dụng: Java
- - Công cụ lập trình giao diện: JavaFX
- - IDE sử dụng: VSCode
- - Công cụ quản lí mã nguồn: Github
- - Công cụ vẽ sơ đồ phân tích: draw.io, StarUML
+ * Ngôn ngữ sử dụng: `Java`
+ * Công cụ lập trình giao diện: `JavaFX`
+ * IDE sử dụng: `VSCode`
+ * Công cụ quản lí mã nguồn: `Github`
+ * Công cụ vẽ sơ đồ phân tích: `draw.io`, `StarUML`
 >## Yêu cầu cài đặt
 __Update sau__
 >## Hướng dẫn cài đặt chương trình
