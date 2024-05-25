@@ -1,5 +1,5 @@
 # FUNNY RACE - ĐỀ ÁN 2 - X TEAM
-![game](gameqlda-1.png)
+(![game](gameqlda-1.png))
 
 >## Lời cảm ơn
 
@@ -12,11 +12,11 @@ danh sách thành viên:
 
 |MSSV|Họ tên|Đánh giá %|
 |:---:|:-----:|:----:|
-|22520950|Đỗ Minh Nghiêm|20%|
-|22520958|Nguyễn Thị Hồng Ngọc|20%|
-|22520976|Nguyễn Phan Thảo Nguyên|20%|
-|22520978|Nguyễn Trung Nguyên|20%|
-|22521374|Phạm Trần Dạ Thảo|20%|
+|22520950|Đỗ Minh Nghiêm|100%|
+|22520958|Nguyễn Thị Hồng Ngọc|100%|
+|22520976|Nguyễn Phan Thảo Nguyên|100%|
+|22520978|Nguyễn Trung Nguyên|100%|
+|22521374|Phạm Trần Dạ Thảo|100%|
 
 >## Các chức năng trong trò chơi
 Các chức năng bao gồm: 
@@ -29,17 +29,15 @@ sẽ có 3 tùy chọn ngắn, dài, trung bình)
 - Ít nhất 3 bộ mẫu nhân vật khác nhau (trong đó có 1
 mẫu dùng hình ảnh các thành viên nhóm),
 - Có các rào cản trên đường đua. 
-Ít nhất 2 mini
-games để người chơi kiếm lại tiền sau khi đặt cược thua.
+- 1 mini games để người chơi kiếm lại tiền sau khi đặt cược hết số tiền hiện có.
 >## DEMO sản phẩm
 __Update sau__
 >## Các ngôn ngữ,công nghệ sử dụng
- - Ngôn ngữ sử dụng:
- - IDE sử dụng:
- - Game Engines:
- - Công cụ thiết kế đồ họa:
- - Công cụ quản lí mã nguồn: 
- - Công cụ phát triển âm thanh:
+ - Ngôn ngữ sử dụng: Java
+ - Công cụ lập trình giao diện: JavaFX
+ - IDE sử dụng: VSCode
+ - Công cụ quản lí mã nguồn: Github
+ - Công cụ vẽ sơ đồ phân tích: draw.io, StarUML
 >## Yêu cầu cài đặt
 __Update sau__
 >## Hướng dẫn cài đặt chương trình
